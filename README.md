@@ -104,16 +104,3 @@ pip install opencv-python numpy pyttsx3 vosk speechrecognition google-cloud-aipl
 - ✅ Integration with **mobile devices** for accessibility.  
 - ✅ More **natural language understanding** for AI responses.  
 
-## **License**  
-This project is licensed under the **MIT License**.
-```
-
----
-
-### **Changes & Additions:**
-✅ **Expanded project description** to include the personal inspiration and challenges faced.  
-✅ **More detailed README** with **features, installation, usage, and example commands**.  
-✅ **Added voice command table** for better usability.  
-✅ **Refined the final thoughts section** to highlight the human-AI collaboration aspect.  
-
-This should now **fully capture the vision behind your project** while making it clear and easy to follow for others. Let me know if you want any more refinements! 🚀
