@@ -1,0 +1,2 @@
+# Voice-Assisted-Object-Recognition-and-AI-Query-System-for-the-Visually-Impaired
+A voice-assisted AI system for visually impaired users, combining YOLOv4 object detection and Google Gemini AI for real-time interaction. Users can recognize objects, ask AI queries, switch modes, and control responses via voice commands. Features on-demand &amp; continuous modes with interruptible responses for a seamless experience. 
