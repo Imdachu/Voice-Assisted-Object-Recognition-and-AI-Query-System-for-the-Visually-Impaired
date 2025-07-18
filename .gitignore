@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer logs
+debug.log
+
+# PyInstaller
+*.spec
+
+# Model weights and large files
+yolov4-tiny.weights
+model/*.mdl
+model/*.dubm
+model/*.ie
+model/*.mat
+model/*.stats
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db 
